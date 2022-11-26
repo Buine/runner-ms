@@ -25,7 +25,7 @@ enum class TypeInputFunction {
 }
 
 enum class FunctionGeneratedColumn {
-    CONCAT, DATE_PART, SUM, AVG, MAX, MIN
+    CONCAT, DATE_PART, SUM, AVG, MAX, MIN, COUNT
 }
 
 enum class TypeJoin {
